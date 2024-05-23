@@ -1,11 +1,3 @@
-/*
-This code is written by:
-
-1. 19BCE237 - Sakshi Sanghavi
-2. 19BCE238 - Harshil Sanghvi
-3. 19BCE245 - Aayush Shah
-
-*/
 
 #include<stdio.h>
 #include<stdlib.h>
